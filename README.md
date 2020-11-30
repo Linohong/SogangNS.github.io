@@ -1,1 +1,0 @@
-# SogangNS.github.io
