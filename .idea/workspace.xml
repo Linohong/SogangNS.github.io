@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f3c79d4-bef3-46d9-ba9a-807f247216c4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+    <list default="true" id="7f3c79d4-bef3-46d9-ba9a-807f247216c4" name="Default Changelist" comment="(2020.11.30) Move index to the root directory">
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="11" selection-start-column="11" selection-end-column="11" />
+              <first_editor relative-caret-position="-171">
+                <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               </first_editor>
               <second_editor />
             </state>
@@ -106,7 +106,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606720482713</updated>
-      <workItem from="1606720483824" duration="1289000" />
+      <workItem from="1606720483824" duration="1407000" />
     </task>
     <task id="LOCAL-00001" summary="(2020.11.30) First Trial of the Webpage to the Github.io">
       <created>1606720705791</created>
@@ -126,7 +126,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1289000" />
+    <option name="totallyTimeSpent" value="1407000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -167,11 +167,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pages-themes-leap-day-4c78a50/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-684" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="11" selection-start-column="11" selection-end-column="11" />
+          <first_editor relative-caret-position="-171">
+            <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           </first_editor>
           <second_editor />
         </state>
