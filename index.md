@@ -6,6 +6,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
@@ -29,6 +30,24 @@ var fun = function lang(l) {
   return true;
 }
 ```
+<script>
+
+    var randomNumber = Math.floor(Math.random() * 100) + 1;
+    var guessCount = 1;
+    
+    <div id="A">
+           프린트 하고자 하는 내용
+    </div>
+    
+    function print_info()
+    {
+        document.pf.printzone.value = A.innerHTML;
+        window.open("print_page.html", "print_open","width=800,height=700,top=0,left=0,noresizable,toolbar=no,status=no,scrollbars=yes,directory=no");
+    }
+    
+    print_info()
+
+</script>
 
 ```ruby
 # Ruby code with syntax highlighting
